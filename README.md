@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-    <img src="https://i.ibb.co/cJzqbfF/project-redux.jpg" alt="Logo" width="150" height="150">
+    <img src="https://i.ibb.co/cJzqbfF/project-redux.jpg" alt="Logo" width="350" height="400">
 </p>
 <br/>
 
