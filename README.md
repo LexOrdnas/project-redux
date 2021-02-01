@@ -1,4 +1,7 @@
-<img src="https://i.ibb.co/cJzqbfF/project-redux.jpg" alt="Logo" width="300" height="300">
+<br/>
+<p align="center">
+    <img src="https://i.ibb.co/cJzqbfF/project-redux.jpg" alt="Logo" width="150" height="150">
+</p>
 <br/>
 
 # Getting Started with Create React App
